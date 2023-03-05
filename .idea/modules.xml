@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DIS.iml" filepath="$PROJECT_DIR$/DIS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Opgave6/Opgave6.iml" filepath="$PROJECT_DIR$/Opgave6/Opgave6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Opgave7/Opgave7.iml" filepath="$PROJECT_DIR$/Opgave7/Opgave7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Opgave8/Opgave8.iml" filepath="$PROJECT_DIR$/Opgave8/Opgave8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opgave11-Webserver/Opgave11-Webserver.iml" filepath="$PROJECT_DIR$/Opgave11-Webserver/Opgave11-Webserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opgave6-Thread_input_print/Opgave6-Thread_input_print.iml" filepath="$PROJECT_DIR$/Opgave6-Thread_input_print/Opgave6-Thread_input_print.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opgave7_Webcrawl/Opgave7_Webcrawl.iml" filepath="$PROJECT_DIR$/Opgave7_Webcrawl/Opgave7_Webcrawl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opgave8-Thred_mergesort/Opgave8-Thred_mergesort.iml" filepath="$PROJECT_DIR$/Opgave8-Thred_mergesort/Opgave8-Thred_mergesort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opgave9-TalkProgram/Opgave9-TalkProgram.iml" filepath="$PROJECT_DIR$/Opgave9-TalkProgram/Opgave9-TalkProgram.iml" />
     </modules>
   </component>
 </project>
