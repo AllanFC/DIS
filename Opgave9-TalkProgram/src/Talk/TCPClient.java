@@ -10,7 +10,7 @@ public class TCPClient {
 		String modifiedSentence;
 		String connectionString = "Start " + "Allan";
 		BufferedReader inFromUser = new BufferedReader(new InputStreamReader(System.in));
-		Socket clientSocket= new Socket("10.10.140.89",6969);
+		Socket clientSocket= new Socket("localhost",6969);
 		DataOutputStream outToServer = new DataOutputStream(clientSocket.getOutputStream());
 		BufferedReader inFromServer = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
 		//Init
