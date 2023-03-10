@@ -15,7 +15,7 @@ public class TCPServer {
 		String clientSentence;
 		String capitalizedSentence;
 		InetAddress ipaddress;
-		ServerSocket welcomeSocket = new ServerSocket(6789);
+		ServerSocket welcomeSocket = new ServerSocket(6969);
 		while (true) {
 			Socket connectionSocket = welcomeSocket.accept();
 			BufferedReader inFromClient = new BufferedReader(new InputStreamReader(connectionSocket.getInputStream()));
