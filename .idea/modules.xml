@@ -9,6 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/Opgave7_Webcrawl/Opgave7_Webcrawl.iml" filepath="$PROJECT_DIR$/Opgave7_Webcrawl/Opgave7_Webcrawl.iml" />
       <module fileurl="file://$PROJECT_DIR$/Opgave8-Thred_mergesort/Opgave8-Thred_mergesort.iml" filepath="$PROJECT_DIR$/Opgave8-Thred_mergesort/Opgave8-Thred_mergesort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Opgave9-TalkProgram/Opgave9-TalkProgram.iml" filepath="$PROJECT_DIR$/Opgave9-TalkProgram/Opgave9-TalkProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opgave14_samtidighedskontrol/opgave14_samtidighedskontrol.iml" filepath="$PROJECT_DIR$/opgave14_samtidighedskontrol/opgave14_samtidighedskontrol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opgave22_distribueret-databaser/opgave22_distribueret-databaser.iml" filepath="$PROJECT_DIR$/opgave22_distribueret-databaser/opgave22_distribueret-databaser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opgave30_websikkerhed/opgave30_websikkerhed.iml" filepath="$PROJECT_DIR$/opgave30_websikkerhed/opgave30_websikkerhed.iml" />
     </modules>
   </component>
 </project>

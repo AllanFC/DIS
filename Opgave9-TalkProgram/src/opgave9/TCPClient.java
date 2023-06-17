@@ -14,15 +14,8 @@ public class TCPClient {
 		Socket clientSocket= new Socket("localhost",6969);
 		DataOutputStream outToServer = new DataOutputStream(clientSocket.getOutputStream());
 		BufferedReader inFromServer = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
-		//sentence = inFromUser.readLine();
-		outToServer.writeBytes("HaHa");
-		Thread.sleep(100);
-		outToServer.writeBytes("HeHe");
-		Thread.sleep(100);
-		outToServer.writeBytes("HiHi");
-		Thread.sleep(100);
-		outToServer.writeBytes("HoHo" + "\n");
-		//outToServer.writeBytes(sentence + '\n');
+		sentence = inFromUser.readLine();
+		outToServer.writeBytes(sentence + '\n');
 		modifiedSentence = inFromServer.readLine();
 		System.out.println("FROM SERVER: " + modifiedSentence);
 		clientSocket.close();
